@@ -28,7 +28,7 @@ public class NewCalculator {
 		double thirdMark = 0;
 		double fourthMark =0;
 		double fifthMark =0;
-		
+
 		double average=0;
 		
 		
@@ -46,7 +46,6 @@ public class NewCalculator {
 		
 		System.out.print("what is your fifthMark? ");
 		fifthMark = userInput.nextDouble();
-		
 		
 		average = (firstMark + secondMark + thirdMark + fourthMark + fifthMark )/ 5;
 		
